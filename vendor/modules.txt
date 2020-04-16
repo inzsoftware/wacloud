@@ -1,0 +1,23 @@
+# github.com/Rhymen/go-whatsapp v0.1.0
+## explicit
+github.com/Rhymen/go-whatsapp
+github.com/Rhymen/go-whatsapp/binary
+github.com/Rhymen/go-whatsapp/binary/proto
+github.com/Rhymen/go-whatsapp/binary/token
+github.com/Rhymen/go-whatsapp/crypto/cbc
+github.com/Rhymen/go-whatsapp/crypto/curve25519
+github.com/Rhymen/go-whatsapp/crypto/hkdf
+# github.com/boombuler/barcode v1.0.0
+## explicit
+github.com/boombuler/barcode
+github.com/boombuler/barcode/qr
+github.com/boombuler/barcode/utils
+# github.com/golang/protobuf v1.3.0
+github.com/golang/protobuf/proto
+# github.com/gorilla/websocket v1.4.0
+github.com/gorilla/websocket
+# github.com/pkg/errors v0.8.1
+github.com/pkg/errors
+# golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2
+golang.org/x/crypto/curve25519
+golang.org/x/crypto/hkdf
